@@ -1,4 +1,5 @@
-# Falcon Versioning
+# Falcon Versioning [![Build Status](https://travis-ci.org/FreakinFacu/falcon_versioning.svg?branch=master)](https://travis-ci.org/FreakinFacu/falcon_versioning) [![codecov](https://codecov.io/gh/FreakinFacu/falcon_versioning/branch/master/graph/badge.svg)](https://codecov.io/gh/FreakinFacu/falcon_versioning)
+
 
 A versioning plugin for Falcon Framework (Link here)
 
